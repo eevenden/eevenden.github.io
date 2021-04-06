@@ -2,5 +2,5 @@ name: Emily Evenden, HTML extrodinaire
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
-minima: 
-skin: dark
+minima:
+  skin: dark
