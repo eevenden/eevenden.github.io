@@ -1,9 +1,10 @@
 name: Emily Evenden, HTML extrodinaire
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+#markdown: kramdown
+#permalink: /blog/:year/:month/:day/:title
 
 minima:
-  skin: solarized-dark
+  skin: dark
+  date_format: "%b %-d, %Y"
   
   social_links:
     linkedin: Emily Evenden
