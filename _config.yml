@@ -1,10 +1,12 @@
 name: Emily Evenden, HTML extrodinaire
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
+
 minima:
   skin: dark
   
   social_links:
     linkedin: Emily Evenden
     github:  eevenden
+
+theme: minima
