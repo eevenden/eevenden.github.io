@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 minima:
-  skin: dark
+  skin: solarized-dark
   
   social_links:
     linkedin: Emily Evenden
