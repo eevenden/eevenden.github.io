@@ -1,10 +1,9 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/skins/{{ site.minima.skin | default: 'dark' }}";
 @import "minima/initialize";
-@import "minima/skins/dark";
-@import "minima/skins/solarized";
+
 
 
 body {
