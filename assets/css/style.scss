@@ -1,5 +1,5 @@
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize",
-  "minima/skins/dark",
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+  "minima/initialize";
+  "minima/skins/dark";
   "minima/skins/solarized";
