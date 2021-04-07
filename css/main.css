@@ -1,7 +1,11 @@
 ---
 ---
 
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 @import "minima/skins/dark";
+@import "minima/skins/solarized";
+
 
 body {
     margin: 60px auto;
